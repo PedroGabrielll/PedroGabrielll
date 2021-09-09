@@ -1,5 +1,4 @@
-### Opa, prazer viajante👋🏼, me chamo Pedro Gabriel.
-Sou estudante Front-end💻✨
+### Opa, prazer viajante👋🏼, Seja bem-vindo.
 
  <div>
   <a href="https://github.com/PedroGabrielll">
