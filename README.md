@@ -1,6 +1,6 @@
 ### Opa, prazer viajante👋🏼, Seja bem-vindo.
 ### Sou estudante de Desenvolvimento Front-end.
-### Tenho 20 anos.
+
  <div>
   <a href="https://github.com/PedroGabrielll">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroGabrielll&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
