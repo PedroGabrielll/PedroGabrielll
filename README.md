@@ -1,8 +1,8 @@
 ### Opa, prazer viajante👋🏼, Seja bem-vindo.
-#### • Atualmente sou estudante de Front-end 📚
-#### • Tenho 20 anos ✨
-#### • Moro em Cabo/PE 🌍
-#### • Contato: pedrogabriel4545@hotmail.com
+##### • Atualmente sou estudante de Front-end 📚
+##### • Tenho 20 anos ✨
+##### • Moro em Cabo/PE 🌍
+##### • Contato: pedrogabriel4545@hotmail.com
 
  <div>
   <a href="https://github.com/PedroGabrielll">
