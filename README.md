@@ -1,5 +1,7 @@
 ### Opa, prazer viajante👋🏼, Seja bem-vindo.
-###  Me chamo Pedro Gabriel e sou estudante de Desenvolvimento Front-end.
+### • Atualmente sou estudante de Front-end 📚
+### • Tenho 20 anos ✨
+### • Moro em Cabo/PE 🌍
 
  <div>
   <a href="https://github.com/PedroGabrielll">
