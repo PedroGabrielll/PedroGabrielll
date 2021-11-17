@@ -1,7 +1,7 @@
 ### Opa, prazer viajante👋🏼, Seja bem-vindo.
- • Atualmente sou estudante de Front-end 📚
- • Tenho 20 anos ✨
- • Moro em Cabo/PE 🌍
+# • Atualmente sou estudante de Front-end 📚
+# • Tenho 20 anos ✨
+# • Moro em Cabo/PE 🌍
 
  <div>
   <a href="https://github.com/PedroGabrielll">
