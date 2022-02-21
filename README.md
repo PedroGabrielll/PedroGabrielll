@@ -1,5 +1,5 @@
 ### Opa, prazer viajante👋🏼, Seja bem-vindo(a).
-#### • Atualmente sou estudante de Front-end 📚
+#### • Estudante Front-end 📚
 #### • Tenho 20 anos ✨
 #### • Moro em Cabo/PE 🌍
 #### • Contato: pedrogabriel4545@hotmail.com
