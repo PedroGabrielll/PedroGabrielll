@@ -1,6 +1,6 @@
-### Opa, prazer viajante👋🏼, Seja bem-vindo(a).
-#### • Estudante Front-end 📚
-#### • Tenho 20 anos ✨
+### Prazer, me chamo Pedro🏼, Seja bem-vindo(a).
+#### • Estudante de Front-end e Logística 📚
+#### • Tenho 21 anos ✨
 #### • Moro em Cabo/PE 🌍
 #### • Contato: pedrogabriel4545@hotmail.com
 
