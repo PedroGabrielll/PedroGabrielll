@@ -1,4 +1,4 @@
-### Prazer, me chamo Pedro🏼, Seja bem-vindo(a).
+### Prazer, me chamo Pedro 🤝
 #### • Estudante de Front-end e Logística 📚
 #### • Tenho 21 anos ✨
 #### • Moro em Cabo/PE 🌍
